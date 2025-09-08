@@ -31,10 +31,16 @@ I’m a first-generation Latina studying Computer Science at USF, passionate abo
 📎 Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adelitta) 
 📫 Email: [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adelittastanton@gmail.com) 
 💻 Portfolio: [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/TheAdelitta)
+
 ✨ *Actively open to SWE, security, and AI internships!*
 
 ## 📊 GitHub Stats
-![Adelitta's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAdelitta&show_icons=true&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheAdelitta&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAdelitta&layout=compact&theme=tokyonight" />
+</p>
+
 
 <!--
 **TheAdelitta/TheAdelitta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
