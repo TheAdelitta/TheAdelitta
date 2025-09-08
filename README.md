@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Adelitta Stanton!
 
-I'm a first-generation Latina studying Computer Science at the University of South Florida. I'm passionate about backend development, AI, and building secure systems that create access and impact.
+I’m a first-generation Latina studying Computer Science at USF, passionate about backend development, AI/ML, and building secure systems that expand access and impact.
 
 - 💻 Software Engineering Intern @ DTCC – building backend APIs using Python and FastAPI
 - 🔐 Former DevSecOps Intern @ Boar’s Head – focused on cloud security and CI/CD pipelines
@@ -13,9 +13,9 @@ I'm a first-generation Latina studying Computer Science at the University of Sou
 ### 🔧 Technologies & Tools
 
 **Languages:** Python, Java, C, C++, Bash, HTML/CSS  
-**Frameworks & Tools:** FastAPI, Git, Linux, VS Code, Oracle DB  
-**AI/ML:** scikit-learn, TF-IDF, NumPy, pandas, traditional neural networks  
-**Other:** GitHub, Docker (learning), Bitbucket, CI/CD, REST APIs  
+**Frameworks & Libraries:** FastAPI, scikit-learn, NumPy, pandas, TF-IDF, neural networks  
+**Cloud & DevOps:** Azure, Oracle DB, Docker, Kubernetes, Git, Bitbucket, CI/CD  
+**Tools:** Linux, VS Code, GitHub, REST APIs 
 
 ---
 
@@ -28,12 +28,13 @@ I'm a first-generation Latina studying Computer Science at the University of Sou
 ---
 
 ### 🌐 Let's Connect
-📎 [LinkedIn](https://www.linkedin.com/in/adelitta)  
-📫 Email: adelittastanton@hotmail.com 
-💻 Portfolio: github.com/adelitta  
+📎 Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adelitta) 
+📫 Email: [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adelittastanton@gmail.com) 
+💻 Portfolio: [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/TheAdelitta)
 ✨ *Actively open to SWE, security, and AI internships!*
 
-
+## 📊 GitHub Stats
+![Adelitta's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAdelitta&show_icons=true&theme=tokyonight)
 
 <!--
 **TheAdelitta/TheAdelitta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
