@@ -38,6 +38,7 @@ I’m a first-generation Latina studying Computer Science at USF, passionate abo
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheAdelitta&show_icons=true&theme=tokyonight" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAdelitta&layout=compact&theme=tokyonight" />
 </p>
 
